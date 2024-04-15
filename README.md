@@ -22,8 +22,7 @@ We are open to any suggestions and discussions and feel free to contact us throu
 
 ## News
 
-- We have provided our dataset DABench in [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link).
-
+- 2024/04/15 - Our dataset DABench is now publicly accessible and can be retrieved from [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link)!
 
 ## Contents
 
