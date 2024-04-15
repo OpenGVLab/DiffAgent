@@ -15,14 +15,14 @@ We are open to any suggestions and discussions and feel free to contact us throu
 
 ## TODO
 
+- [x] dataset
 - [ ] data collection script
-- [ ] dataset
 - [ ] pretrain model
 - [ ] training code
 
 ## News
 
-- 
+- We have provided our dataset DABench in [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link).
 
 
 ## Contents
@@ -43,6 +43,12 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
+
+Our research introduces a high-quality dataset, DABench, accessible via [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link), encompassing Instruction-API pairs from SD 1.5 and SD XL (a total of 50,482).
+Additionally, we furnish the corresponding mapping dictionaries to facilitate subsequent model downloads or API information reconstruction.
+
+
+The dataset DABench proposed in our work is collected from Civitai ([license](https://github.com/civitai/civitai/blob/main/LICENSE)). The stipulations of the license highlight potential legal implications if this dataset is employed for commercial objectives. Therefore, it is strongly recommended that any entity intending to utilize this data for commercial ends should seek explicit authorization from either the relevant website or author.
 
 
 ## Usage
