@@ -22,7 +22,7 @@ We are open to any suggestions and discussions and feel free to contact us throu
 
 ## News
 
-- 2024/04/15 - Our dataset DABench is now publicly accessible and can be retrieved from [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link)!
+- 2024/04/15 - Our dataset DABench is now publicly accessible and can be retrieved from [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=sharing)!
 
 ## Contents
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Our research introduces a high-quality dataset, DABench, accessible via [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=drive_link), encompassing Instruction-API pairs from SD 1.5 and SD XL (a total of 50,482).
+Our research introduces a high-quality dataset, DABench, accessible via [Google Drive](https://drive.google.com/file/d/1-zqkHbuD1Di5eqLUspE3mzkRAmOCZYtZ/view?usp=sharing), encompassing Instruction-API pairs from SD 1.5 and SD XL (a total of 50,482).
 Additionally, we furnish the corresponding mapping dictionaries to facilitate subsequent model downloads or API information reconstruction.
 
 
